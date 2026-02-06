@@ -1,0 +1,22 @@
+{
+  "name": "sankalp-science-school",
+  "version": "1.0.0",
+  "description": "School Management System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Arvind",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.4",
+    "bcrypt": "^6.0.0",
+    "body-parser": "^1.20.4",
+    "express": "^4.22.1",
+    "mongoose": "^9.1.5",
+    "sqlite3": "^5.1.7"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {}
+}
